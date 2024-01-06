@@ -160,3 +160,10 @@ main section {
     color: #757575;
 
 }
+
+/* resume section title */
+.resume-colum-title{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
