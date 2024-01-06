@@ -174,7 +174,6 @@ main section {
 .resume-item-title{
     color: #474747;
     font-size: 25px;
-    font-style: normal;
     font-weight: 700;
     margin-bottom: 10px;
 }
@@ -189,4 +188,8 @@ main section {
 }
 .resume-container hr{
     margin: 30px;
+}
+.Download-cv{
+    text-align: center;
+    margin-top: 50px;
 }
